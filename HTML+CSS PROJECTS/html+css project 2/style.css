@@ -1,0 +1,24 @@
+h1{
+    display: flex;
+    justify-content: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: darkblue;
+}
+.bg{
+    background-color: rgb(243, 243, 226);
+}
+.a{
+    background-color: rgb(206, 244, 231);
+}
+.c{
+    background-color: rgb(247, 206, 247);
+}
+.d{
+    background-color: rgb(240, 204, 204);
+}
+.f{
+    background-color: rgb(204, 209, 209);
+}
+.g{
+    background-color: rgb(244, 244, 182);
+}

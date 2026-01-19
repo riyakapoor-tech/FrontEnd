@@ -1,0 +1,18 @@
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(182, 203, 243);
+    font: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.jkr{
+    background-color: rgb(219, 239, 239);
+}
+h2{
+    color: crimson;
+}
+figure{
+    color: rgb(121, 22, 130);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
